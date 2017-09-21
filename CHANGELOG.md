@@ -1,3 +1,7 @@
+## STEALTH
+- Added stealth validation
+- Upgraded privatekey
+======================
 ## v0.4.0
 - Add AccountLogin class
 - Clean up imports
